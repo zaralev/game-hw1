@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  background-color: #262626;
+  font-family: Helvetica, sans-serif; }
+
+h1 {
+  margin: 1.3em;
+  font-size: 2em;
+  font-weight: bold; }
+
+#container {
+  margin: auto;
+  text-align: center;
+  background-color: #fff;
+  width: 80%;
+  padding: 1em 1em 2em 1em; }
+
+ul {
+  margin: 1em; }
+  ul li {
+    padding: 0.8em;
+    text-align: left;
+    display: inline-table;
+    width: 40%;
+    vertical-align: middle; }
+
+/*# sourceMappingURL=style.css.map */
